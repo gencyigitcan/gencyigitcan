@@ -4,12 +4,18 @@ Hi 👋 My name is Yiğitcan Genç
 Full Stack Developer
 --------------------
 
-*   🌍  I'm based in Istanbul, Turkey
-*   ✉️  You can contact me at [yigitcangenc@gmail.com](mailto:yigitcangenc@gmail.com)
-*   🧠  I'm learning a new Full Stack Developer
-*   🤝  I'm open to collaborating on interesting projects<a href="https://www.twitter.com/gencyigitcan" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/gencyigitcan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-             
+* 🌍  I'm based in Istanbul, Turkey
+* ✉️  You can contact me at [yigitcangenc@gmail.com](mailto:yigitcangenc@gmail.com)
+* 🧠  I'm learning a new Full Stack Developer
+* 🤝  I'm open to collaborating on interesting projects
+
+<a href="https://www.twitter.com/gencyigitcan" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/gencyigitcan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
+### Skills
+
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
@@ -21,5 +27,10 @@ Full Stack Developer
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
 </p>
-                    
-                
+
+
+### Socials
+
+<p align="left"> <a href="https://www.behance.com/gencyigitcan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/gencyigitcan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/gencyigitcan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gencyigitcan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/gencyigitcan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
