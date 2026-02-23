@@ -1,36 +1,107 @@
-Hi 👋 My name is Yiğitcan Genç
-==============================
+Yiğitcan Genç
+🧠 Building Products. Not Just Code.
 
-Full Stack Developer
---------------------
+Full Stack Developer turned Product Builder.
+I design, build and ship scalable systems — from enterprise integrations to AI-powered tools.
 
-* 🌍  I'm based in Istanbul, Turkey
-* ✉️  You can contact me at [yigitcangenc@gmail.com](mailto:yigitcangenc@gmail.com)
-* 🧠  I'm learning a new Full Stack Developer
-* 🤝  I'm open to collaborating on interesting projects
+🚀 What I Do
 
-<a href="https://www.twitter.com/gencyigitcan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/gencyigitcan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+Build SaaS-ready architectures
 
-### Skills
+Design backend-heavy scalable systems
 
+Integrate enterprise services (SAP, REST APIs)
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
-</p>
+Develop AI-driven tools & automation workflows
 
+Turn ideas into shipped products
 
-### Socials
+I care about ownership, speed and execution.
 
-<p align="left"> <a href="https://www.behance.com/gencyigitcan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/gencyigitcan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/gencyigitcan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gencyigitcan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/gencyigitcan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+🛠 Core Stack
 
-### Badges
+Backend
+
+C# / .NET Core / ASP.NET
+
+Web API architecture
+
+MS SQL Server
+
+Clean architecture & service layering
+
+Enterprise system integrations
+
+Frontend
+
+Next.js
+
+React
+
+TypeScript
+
+Modern UI systems
+
+Product & Infra
+
+Azure DevOps
+
+IIS
+
+Modular architecture design
+
+SaaS structuring
+
+API-first development
+
+Exploring
+
+LLM integrations
+
+AI agents
+
+Productized automation systems
+
+🧩 What I’m Building
+
+Enterprise data sync systems (SAP ↔ Custom APIs)
+
+AI-powered internal knowledge assistants
+
+Modular SaaS foundations
+
+Web-based content tools (EPUB experiments)
+
+Scalable service-layer architectures
+
+💡 Founder Mindset
+
+I think in:
+
+Distribution
+
+Monetization
+
+Scalability
+
+System design
+
+Long-term product value
+
+Not just tickets.
+
+🌍 Based in Istanbul
+
+Open to global collaborations.
+
+📫 Reach Me
+
+📧 yigitcangenc@gmail.com
+
+💼 LinkedIn: linkedin.com/in/gencyigitcan
+
+🐦 Twitter: twitter.com/gencyigitcan
+
+⚡ Principle
+
+Build fast. Ship real. Iterate forever.
